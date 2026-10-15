@@ -35,6 +35,7 @@ task-manager-ai/
 ├── Dockerfile            # Configuração da imagem Docker da aplicação
 ├── requirements.txt      # Dependências do projeto Python
 └── README.md             # Documentação do projeto
+'''
 
 
 
