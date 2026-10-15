@@ -45,9 +45,9 @@ task-manager-ai/
 
     [x] Configuração de Banco de Dados: Mapeamento ORM e controle de migrações via Alembic.
 
-    [ ] Schemas e Validação: Implementação de contratos de dados com Pydantic.
+    [x] Schemas e Validação: Implementação de contratos de dados com Pydantic.
 
-    [ ] CRUD Completo: Desenvolvimento dos endpoints de criação, leitura, atualização e exclusão de tarefas.
+    [x] CRUD Completo: Desenvolvimento dos endpoints de criação, leitura, atualização e exclusão de tarefas.
 
     [ ] Integração com Inteligência Artificial: Análise inteligente de tarefas via API de IA.
 
@@ -58,12 +58,14 @@ task-manager-ai/
 Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 
     Clone o repositório: [Repositório no GitHub](https://github.com/luispaulo-dev/task-manager-ai.git)
-    '''Bash
+
+    Bash
 
     git clone https://github.com/luispaulo-dev/task-manager-ai.git
     cd task-manager-ai
 
     Suba os containers da aplicação e do banco de dados:
+
     Bash
 
     docker compose up -d --build
