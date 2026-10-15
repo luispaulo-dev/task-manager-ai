@@ -59,7 +59,8 @@ task-manager-ai/
 
 Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 
-    Clone o repositório: [Repositório no GitHub](https://github.com/luispaulo-dev/task-manager-ai.git)
+  Clone o repositório: [Repositório no GitHub](https://github.com/luispaulo-dev/task-manager-ai.git)
+    
 
     Bash
 
